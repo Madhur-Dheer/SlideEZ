@@ -8,7 +8,7 @@
 4. Your notes partner for every lecture, class or seminar
 
 
-##Build flow:
+## Build flow:
 
 1. Speech to text conversion
 2. Sentence segmentation and sentimental analysis
